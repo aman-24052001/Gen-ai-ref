@@ -229,9 +229,6 @@ Would you like to add real test cases for your LLM evaluation? Let me know! 😊
 
 ---
 
-📌 Save This as a Markdown File (evaluation.md)
-
-To use this on GitHub, create a file evaluation.md and copy-paste this content.
 
 # How to Evaluate a Large Language Model (LLM)
 Evaluating an **LLM** is essential to ensure quality, accuracy, and fairness. 
